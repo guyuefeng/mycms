@@ -1,0 +1,22 @@
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.DAL\bin\Debug\Mycms.DAL.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.DAL\bin\Debug\Mycms.DAL.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.DAL\bin\Debug\Mycms.Common.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.DAL\bin\Debug\Mycms.DBUtility.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.DAL\bin\Debug\Mycms.Model.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.DAL\bin\Debug\Mycms.Common.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.DAL\bin\Debug\Mycms.Model.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.DAL\bin\Debug\Mycms.DBUtility.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.DAL\obj\Debug\Mycms.DAL.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.DAL\obj\Debug\Mycms.DAL.pdb
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.DAL\bin\Debug\Mycms.DAL.dll
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.DAL\bin\Debug\Mycms.DAL.pdb
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.DAL\bin\Debug\Mycms.Common.dll
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.DAL\bin\Debug\Mycms.DBUtility.dll
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.DAL\bin\Debug\Mycms.Model.dll
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.DAL\bin\Debug\Mycms.Common.pdb
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.DAL\bin\Debug\Mycms.DBUtility.pdb
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.DAL\bin\Debug\Mycms.Model.pdb
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.DAL\obj\Debug\Mycms.DAL.csprojResolveAssemblyReference.cache
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.DAL\obj\Debug\Mycms.DAL.dll
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.DAL\obj\Debug\Mycms.DAL.pdb

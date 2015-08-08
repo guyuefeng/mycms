@@ -1,0 +1,9 @@
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.Common\bin\Debug\Mycms.Common.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.Common\bin\Debug\Mycms.Common.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.Common\obj\Debug\Mycms.Common.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.Common\obj\Debug\Mycms.Common.pdb
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.Common\bin\Debug\Mycms.Common.dll
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.Common\bin\Debug\Mycms.Common.pdb
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.Common\obj\Debug\Mycms.Common.dll
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.Common\obj\Debug\Mycms.Common.pdb

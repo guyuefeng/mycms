@@ -1,0 +1,30 @@
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.Web.UI.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.Web.UI.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.BLL.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.Common.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.Model.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.DAL.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.DBUtility.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.Common.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.DAL.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.DBUtility.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.BLL.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.Model.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\obj\Debug\Mycms.Web.UI.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\obj\Debug\Mycms.Web.UI.pdb
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.Web.UI.dll
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.Web.UI.pdb
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.BLL.dll
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.Common.dll
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.Model.dll
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.DAL.dll
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.DBUtility.dll
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.BLL.pdb
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.Common.pdb
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.Model.pdb
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.DAL.pdb
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\bin\Debug\Mycms.DBUtility.pdb
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\obj\Debug\Mycms.Web.UI.csprojResolveAssemblyReference.cache
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\obj\Debug\Mycms.Web.UI.dll
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.Web.UI\obj\Debug\Mycms.Web.UI.pdb

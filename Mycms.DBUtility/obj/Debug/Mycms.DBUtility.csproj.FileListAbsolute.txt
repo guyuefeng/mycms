@@ -1,0 +1,9 @@
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.DBUtility\bin\Debug\Mycms.DBUtility.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.DBUtility\bin\Debug\Mycms.DBUtility.pdb
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.DBUtility\obj\Debug\Mycms.DBUtility.dll
+C:\Documents and Settings\ligf3\My Documents\Dropbox\框架\Framework-003\Mycms\Mycms.DBUtility\obj\Debug\Mycms.DBUtility.pdb
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.DBUtility\bin\Debug\Mycms.DBUtility.dll
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.DBUtility\bin\Debug\Mycms.DBUtility.pdb
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.DBUtility\obj\Debug\Mycms.DBUtility.dll
+E:\Dropbox\框架\Framework-003\Mycms\Mycms.DBUtility\obj\Debug\Mycms.DBUtility.pdb
